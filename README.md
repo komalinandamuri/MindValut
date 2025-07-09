@@ -1,2 +1,3 @@
 # MindValut
-  This is a Flashcard website I tried making
+  This is a Flashcard website I'm trying make
+  
